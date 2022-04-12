@@ -6,6 +6,7 @@
     background-color: #333;
 }
 
+
 header > div{
     height: 70px;
     color:white;
@@ -43,6 +44,7 @@ header > div{
     text-align: center;
     color:white;
     padding:10px 0;
+    margin-bottom: 30px;
 }
 
 .hero img{
@@ -67,8 +69,17 @@ header > div{
 .line{
     height: 5px;
     width: 90px;
-    background: #fff;
     border-radius: 5px;
 }
+
+#portfolio{
+    text-align: center;
+}
+
+#portfolio img{
+    width: 100%;
+    text-align: center;
+}
+
 
 
