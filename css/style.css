@@ -1,3 +1,7 @@
+.primary-color{
+    background-color: #21a359;    
+}
+
 .secondary-color{
     background-color: #333;
 }
@@ -34,3 +38,37 @@ header > div{
     color:white;
     text-decoration: none;
 }
+
+.hero {
+    text-align: center;
+    color:white;
+    padding:10px 0;
+}
+
+.hero img{
+    width: 300px;
+}
+
+.hero h4{
+    font-size: 20px;
+}
+
+.container-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0 10px;
+}
+
+.container-icons i{
+    font-size: 30px;
+}
+
+.line{
+    height: 5px;
+    width: 90px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+
